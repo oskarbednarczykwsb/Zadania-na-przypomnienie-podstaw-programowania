@@ -1,0 +1,14 @@
+C:\Users\skrbk\source\repos\Srednia\Srednia\bin\Debug\net8.0\Srednia.exe
+C:\Users\skrbk\source\repos\Srednia\Srednia\bin\Debug\net8.0\Srednia.deps.json
+C:\Users\skrbk\source\repos\Srednia\Srednia\bin\Debug\net8.0\Srednia.runtimeconfig.json
+C:\Users\skrbk\source\repos\Srednia\Srednia\bin\Debug\net8.0\Srednia.dll
+C:\Users\skrbk\source\repos\Srednia\Srednia\bin\Debug\net8.0\Srednia.pdb
+C:\Users\skrbk\source\repos\Srednia\Srednia\obj\Debug\net8.0\Srednia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrbk\source\repos\Srednia\Srednia\obj\Debug\net8.0\Srednia.AssemblyInfoInputs.cache
+C:\Users\skrbk\source\repos\Srednia\Srednia\obj\Debug\net8.0\Srednia.AssemblyInfo.cs
+C:\Users\skrbk\source\repos\Srednia\Srednia\obj\Debug\net8.0\Srednia.csproj.CoreCompileInputs.cache
+C:\Users\skrbk\source\repos\Srednia\Srednia\obj\Debug\net8.0\Srednia.dll
+C:\Users\skrbk\source\repos\Srednia\Srednia\obj\Debug\net8.0\refint\Srednia.dll
+C:\Users\skrbk\source\repos\Srednia\Srednia\obj\Debug\net8.0\Srednia.pdb
+C:\Users\skrbk\source\repos\Srednia\Srednia\obj\Debug\net8.0\Srednia.genruntimeconfig.cache
+C:\Users\skrbk\source\repos\Srednia\Srednia\obj\Debug\net8.0\ref\Srednia.dll
